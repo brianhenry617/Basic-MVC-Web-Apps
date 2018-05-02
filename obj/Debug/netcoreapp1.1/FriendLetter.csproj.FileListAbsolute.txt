@@ -8,3 +8,13 @@
 /Users/brianhenry/Desktop/FriendLetter/obj/Debug/netcoreapp1.1/FriendLetter.AssemblyInfo.cs
 /Users/brianhenry/Desktop/FriendLetter/obj/Debug/netcoreapp1.1/FriendLetter.dll
 /Users/brianhenry/Desktop/FriendLetter/obj/Debug/netcoreapp1.1/FriendLetter.pdb
+/Users/brianhenry/Desktop/Basic-MVC-Web-Apps/obj/Debug/netcoreapp1.1/FriendLetter.csproj.CoreCompileInputs.cache
+/Users/brianhenry/Desktop/Basic-MVC-Web-Apps/obj/Debug/netcoreapp1.1/FriendLetter.AssemblyInfoInputs.cache
+/Users/brianhenry/Desktop/Basic-MVC-Web-Apps/obj/Debug/netcoreapp1.1/FriendLetter.AssemblyInfo.cs
+/Users/brianhenry/Desktop/Basic-MVC-Web-Apps/obj/Debug/netcoreapp1.1/FriendLetter.dll
+/Users/brianhenry/Desktop/Basic-MVC-Web-Apps/obj/Debug/netcoreapp1.1/FriendLetter.pdb
+/Users/brianhenry/Desktop/Basic-MVC-Web-Apps/bin/Debug/netcoreapp1.1/FriendLetter.deps.json
+/Users/brianhenry/Desktop/Basic-MVC-Web-Apps/bin/Debug/netcoreapp1.1/FriendLetter.runtimeconfig.json
+/Users/brianhenry/Desktop/Basic-MVC-Web-Apps/bin/Debug/netcoreapp1.1/FriendLetter.runtimeconfig.dev.json
+/Users/brianhenry/Desktop/Basic-MVC-Web-Apps/bin/Debug/netcoreapp1.1/FriendLetter.dll
+/Users/brianhenry/Desktop/Basic-MVC-Web-Apps/bin/Debug/netcoreapp1.1/FriendLetter.pdb

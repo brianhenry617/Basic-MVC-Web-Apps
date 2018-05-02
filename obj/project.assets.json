@@ -9524,11 +9524,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/brianhenry/Desktop/FriendLetter/FriendLetter.csproj",
+      "projectUniqueName": "/Users/brianhenry/Desktop/Basic-MVC-Web-Apps/FriendLetter.csproj",
       "projectName": "FriendLetter",
-      "projectPath": "/Users/brianhenry/Desktop/FriendLetter/FriendLetter.csproj",
+      "projectPath": "/Users/brianhenry/Desktop/Basic-MVC-Web-Apps/FriendLetter.csproj",
       "packagesPath": "/Users/brianhenry/.nuget/packages/",
-      "outputPath": "/Users/brianhenry/Desktop/FriendLetter/obj/",
+      "outputPath": "/Users/brianhenry/Desktop/Basic-MVC-Web-Apps/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/brianhenry/.nuget/NuGet/NuGet.Config"
